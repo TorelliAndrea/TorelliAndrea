@@ -72,3 +72,4 @@ I started with an intensive bootcamp that took me from HTML/CSS/JS all the way t
 <p align="center">
   <sub>Stack by choice. Bitcoin by conviction. Linux by default.</sub>
 </p>
+
