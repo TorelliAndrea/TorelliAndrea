@@ -40,7 +40,7 @@ I started with an intensive bootcamp that took me from HTML/CSS/JS all the way t
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<sub>↗ Currently picking up: Svelte 5 · TypeScript · Python · Docker · n8n</sub>
+<sub>↗ Currently picking up: Svelte 5 · TypeScript · Python · Docker · n8n </sub>
 
 ---
 
